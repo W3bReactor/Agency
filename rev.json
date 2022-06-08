@@ -1,6 +1,6 @@
 {
   "css/main.css": "css/main-0075f2db95.css",
-  "css/vendor.css": "css/vendor-5ab440c316.css",
+  "css/vendor.css": "css/vendor-6fda67aa72.css",
   "fonts/OpenSans-Light.woff2": "fonts/OpenSans-Light-375b048cb3.woff2",
   "fonts/OpenSans-Regular.woff2": "fonts/OpenSans-Regular-a725497524.woff2",
   "fonts/OpenSans-SemiBold.woff2": "fonts/OpenSans-SemiBold-dbee1c4201.woff2",
@@ -52,5 +52,5 @@
   "img/works-4.avif": "img/works-4-290ab3b4e3.avif",
   "img/works-4.jpg": "img/works-4-69cca4756a.jpg",
   "img/works-4.webp": "img/works-4-696c5be16c.webp",
-  "js/main.js": "js/main-13afb436d5.js"
+  "js/main.js": "js/main-4315a923e2.js"
 }
